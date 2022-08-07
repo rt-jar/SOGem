@@ -1,1 +1,2 @@
-# SOGem
+# SOG
+some description.
